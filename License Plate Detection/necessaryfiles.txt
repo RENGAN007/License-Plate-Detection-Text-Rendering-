@@ -1,0 +1,6 @@
+Install and Import Dependencies
+Read in Image , Grayscale and Blur
+Applying filter and finding edges for localisation 
+Find contours and apply mask
+Use of easy OCR to read text
+Render Result
